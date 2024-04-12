@@ -14,13 +14,6 @@
         <gwt.version>2.4.0</gwt.version>
     </properties>
     <description>Loja Virtual - Devops na Prática</description>
-    <repositories>
-        <repository>
-            <id>public releases</id>
-            <name>public releases</name>
-            <url>http://www.broadleafcommerce.org/nexus/content/repositories/snapshots/</url>
-        </repository>
-    </repositories>
     <build>
         <pluginManagement>
             <plugins>
